@@ -130,7 +130,7 @@ function userPick() {
     inquirer.prompt(userPick).then((data) => {
         if (data.newTeamMember == "yes") {
             typeOfEmployee();
-        } else writeToFile(__dirname + "./dist/team.html", employees);
+        } else writeToFile(__dirname + "/dist/team.html", employees);
     });
 }
 
