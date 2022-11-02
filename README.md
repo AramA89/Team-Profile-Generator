@@ -29,3 +29,4 @@ Run -npm test- in the command line
 ## Deployed URL
 
 ## GitHub Repository
+https://github.com/AramA89/Team-Profile-Generator
