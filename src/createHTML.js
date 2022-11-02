@@ -12,9 +12,9 @@ function createHTML(data) {
     </head>
     <body>
         <header>
-            <div class="jumbotron jumbotron-fluid ">
+            <div style="background-color: orange;" class="jumbotron jumbotron-fluid .bg-warning">
                 <div class="container">
-                  <h1 class="display-4">My Team</h1>
+                  <h1 style="text-align: center;" class="display-4">My Team</h1>
                 </div>
               </div>
         </header>
